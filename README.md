@@ -2,10 +2,15 @@
 Simple program to shock me if I lose heart in Minecraft - Inspired by Dream
 
 # Tool used
+## Hardware:
 1. Arduino Uno
 2. Arc Lighter
 3. Relay
 4. Power Supply
+
+## Software:
+1. Python
+2. `PIL`, `OpenCV`, `serial`
 
 # How to use
 1. Upload `arduinocode.ino` to Arduino
