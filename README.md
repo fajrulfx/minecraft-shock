@@ -8,5 +8,5 @@ Simple program to shock me if I lose heart in Minecraft - Inspired by Dream
 4. Power Supply
 
 # How to use
-1. Upload arduinocode.ino to Arduino
-2. Run 'python damageshock.py'
+1. Upload `arduinocode.ino` to Arduino
+2. Run `python damageshock.py`
