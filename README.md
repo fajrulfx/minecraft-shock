@@ -14,7 +14,7 @@ Simple program to shock me if I lose heart in Minecraft - Inspired by Dream
 
 # How to use
 1. Upload `arduinocode.ino` to Arduino
-2. Run `python damageshock.py`
+2. Run `python damageshock.py` and play your Minecraft
 
 # Credits
 - This program is inspired by Dream's Youtube video: https://www.youtube.com/watch?v=AA7AE-3yq7Y
